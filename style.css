@@ -1,0 +1,29 @@
+
+    p {font-family:florence,cursive;
+ color:purple;
+ padding:30px;
+ border-style:solid;
+ border-width:2px;
+ border-color:green;
+ background-color:#ffcf79;
+ border-style:dashed;
+ margin:7px;
+ margin-bottom:50px;
+ margin-left:auto;
+ display:block;
+ border-radius:0px;}
+
+h3 {color:Black;
+font-weight:lighter;
+font-family:florence,Bold;
+font-size:30px;}
+
+a:link {
+color:orange;
+font-size:30px;}
+
+a:visited {color:#8c8c9d;
+}
+
+a:hover {color:gold;}
+}
